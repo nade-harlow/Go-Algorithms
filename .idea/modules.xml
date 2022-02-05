@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Algorithms.iml" filepath="$PROJECT_DIR$/.idea/Algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../projects/.idea/projects.iml" filepath="$PROJECT_DIR$/../../projects/.idea/projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../goproject/src/github.com/nade-harlow/WeekFourTask/todo/.idea/todo.iml" filepath="$PROJECT_DIR$/../../goproject/src/github.com/nade-harlow/WeekFourTask/todo/.idea/todo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../goproject/WeekFourTask/todolist/.idea/todolist.iml" filepath="$PROJECT_DIR$/../../goproject/WeekFourTask/todolist/.idea/todolist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../goproject/WeekTwoTask/.idea/weekTwoTask.iml" filepath="$PROJECT_DIR$/../../goproject/WeekTwoTask/.idea/weekTwoTask.iml" />
+    </modules>
+  </component>
+</project>
